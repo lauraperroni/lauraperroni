@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lauraperroni
-- 🌱 I’m currently learning computer programming, but I'm focusin on C# and Power BI
+- 🌱 I’m currently learning computer programming, but I'm focusin on C# and Web Dev
 - 💞️ I’m looking to collaborate on any beginner projects.
 - 📫 How to reach me: Instagram: @lauraperronigtr
 
