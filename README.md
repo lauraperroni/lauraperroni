@@ -60,5 +60,5 @@ I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lauraperroni&theme=modern-lilac2)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraperroni&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lauraperroni&theme=jolly)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraperroni&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
