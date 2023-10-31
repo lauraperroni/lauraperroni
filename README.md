@@ -29,13 +29,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m working as a CSC and Projects Management Intern and contributing to frontend and backend for building web applications and mobile apps.
+- :telescope: I’m working as an Intern at Dimensa, as an SQL N2 Support Analyst
 
-- :handshake: Volunteer as a Project Analyst at PMI-RS.
+- :handshake: Was a volunteer at PMI in 2022
 
-- :seedling: Learning Javascript and React at Alura.
+- :seedling: Learning Java 
 
 - :zap: In my free time, I play guitar and post covers in my YouTube channel.
 
