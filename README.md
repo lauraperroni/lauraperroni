@@ -35,7 +35,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :handshake: Was a volunteer at PMI in 2022
 
-- :seedling: Learning Java 
+- :seedling: Learning Java, Python and Django!
 
 - :zap: In my free time, I play guitar and post covers in my YouTube channel.
 
