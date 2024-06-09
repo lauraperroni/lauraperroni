@@ -31,13 +31,13 @@
 
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m working as an Intern at Dimensa, as an SQL N2 Support Analyst
+- :telescope: I’m working at UNICRED DO BRASIL, as a Full-Stack Developer Intern with Spring + React
 
 - :handshake: Was a volunteer at PMI in 2022
 
-- :seedling: Learning Java, Python and Django!
+- :seedling: Lifelong Learner!
 
-- :zap: In my free time, I play guitar and post covers in my YouTube channel.
+- :zap: In my free time, I play guitar and post covers in my YouTube channel and programming/tech classes in my other channel, play Team Fortress2 and other games live on Twitch, read lots of great books, exercise and draw!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-perroni)
 
