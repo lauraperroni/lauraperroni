@@ -14,7 +14,7 @@
 
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m working at UNICRED DO BRASIL, as a Full-Stack Developer Intern with Spring + React
+- :telescope: I’m working at UNICRED DO BRASIL, as a Trainee Full-Stack Developer with Spring + React
 
 - :handshake: Was a volunteer at PMI in 2022
 
