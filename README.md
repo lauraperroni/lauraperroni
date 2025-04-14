@@ -20,7 +20,9 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Lifelong Learner!
 
-- :zap: In my free time, I play guitar and post covers in my YouTube channel and programming/tech classes in my other channel, play Team Fortress2 and other games live on Twitch, read lots of great books, exercise and draw!
+- :zap: In my free time, I play the electric guitar and post covers in my YouTube channel and programming/tech classes in my other channel, play Team Fortress 2 and other games, read lots of great books, exercise and draw!
+
+- :dog: Recently became a proud mom of 2 dogs
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/laura-perroni">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
